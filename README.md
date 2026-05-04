@@ -2,4 +2,4 @@
 
 I'm Sheikh otherwise know as Rayhan. 
 
-Currenty building [Sigma Classes](www.sigmaclasses.co.uk).
+Currenty building [Sigma Classes](https://www.sigmaclasses.co.uk).
