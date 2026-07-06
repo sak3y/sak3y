@@ -1,6 +1,6 @@
 ### Hi, I'm Rayhan 👋
 
-Freelance developer for companies, includes @ [Sigma Classes](https://www.sigmaclasses.co.uk)
+Freelance developer, including @ [Sigma Classes](https://www.sigmaclasses.co.uk)
 
 🏆 Top 3 at the MThree Canary Wharf hackathon (2025).
 
