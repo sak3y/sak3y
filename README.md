@@ -1,6 +1,8 @@
 ### Hi, I'm Rayhan 👋
 
-Freelance developer, including @ [Sigma Classes](https://www.sigmaclasses.co.uk)
+My Tech Stack: React + TypeScript + NodeJS/Express + Java + SQL
+
+Freelance developer, work includes @ [Sigma Classes](https://www.sigmaclasses.co.uk) and an ongoing website for a bakery.
 
 🏆 Top 3 at the MThree Canary Wharf hackathon (2025).
 
