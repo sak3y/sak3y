@@ -1,4 +1,7 @@
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rayhan+%F0%9F%91%8B;Freelance+Developer;React+%7C+TypeScript+%7C+Node.js" />
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rayhan+%F0%9F%91%8B;Freelance+Developer;React+%7C+TypeScript+%7C+Node.js" /> 
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
