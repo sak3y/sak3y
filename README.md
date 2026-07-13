@@ -14,6 +14,7 @@
 
 <p align="center">
   Freelance developer building production web apps.<br/>
+  
   Work includes <a href="https://www.sigmaclasses.co.uk">Sigma Classes</a> and an ongoing website for a bakery.
 </p>
 
