@@ -23,10 +23,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sak3y&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sheikh-r-ahmed">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
