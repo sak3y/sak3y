@@ -1,13 +1,38 @@
-### Hi, I'm Rayhan 👋
+<h1 align="center">Hi, I'm <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rayhan+%F0%9F%91%8B;Freelance+Developer;React+%7C+TypeScript+%7C+Node.js" />
+</p> 👋</h1>
 
-My Tech Stack: React + TypeScript + NodeJS/Express + Java + SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-Freelance developer, work includes @ [Sigma Classes](https://www.sigmaclasses.co.uk) and an ongoing website for a bakery.
+<p align="center">
+  Freelance developer building production web apps.<br/>
+  Work includes <a href="https://www.sigmaclasses.co.uk">Sigma Classes</a> and an ongoing website for a bakery.
+</p>
 
-🏆 Top 3 at the MThree Canary Wharf hackathon (2025).
+<p align="center">
+  🏆 <b>Top 3</b> at the MThree Canary Wharf Hackathon (2025)<br/>
+  💼 Open to SWE, junior, and full stack developer roles in the UK
+</p>
 
-💼 Open to SWE, junior or full stack developer roles in the UK.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/sheikh-r-ahmed) ·
-[Portfolio](https://sheikh-ahm.netlify.app) ·
-[Sigma Classes](https://www.sigmaclasses.co.uk)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheikh-r-ahmed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sheikh-ahm.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.sigmaclasses.co.uk">
+    <img src="https://img.shields.io/badge/Sigma_Classes-6E5494?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  </a>
+</p>
