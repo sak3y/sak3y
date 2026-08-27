@@ -19,7 +19,6 @@
 
 <p align="center">
   🏆 <b>Top 3</b> at the MThree Canary Wharf Hackathon (2025)<br/>
-  💼 Open to SWE, junior, and full stack developer roles in the UK
 </p>
 
 <p align="center">
