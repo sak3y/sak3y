@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rayhan+%F0%9F%91%8B;Freelance+Developer;React+%7C+TypeScript+%7C+Node.js" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rayhan+%F0%9F%91%8B;Freelance+Developer;React+%7C+TypeScript+%7C+Node.js%7C+Python" /> 
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <p align="center">
   Freelance developer building production web apps.<br/>
-  Work includes <a href="https://www.sigmaclasses.co.uk">Sigma Classes</a> and an ongoing website for a bakery.
+  Work includes <a href="https://www.sigmaclasses.co.uk">Sigma Classes</a>
 </p>
 
 <p align="center">
