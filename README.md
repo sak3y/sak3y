@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Rayhan, a freelance developer based in the UK.
+I'm Sheikh R, a freelance developer based in the UK.
 
 I build production web apps with React, TypeScript, and Node.js, with some SQL on the backend when a project needs it. Most of my work goes into [Sigma Classes](https://www.sigmaclasses.co.uk), a platform I built and maintain end to end.
 
