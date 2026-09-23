@@ -8,7 +8,7 @@ What I'm up to?
 Currently working on a legal-rag assistant to query UK legistlation
 
 **Fun facts**
-- Top 7% of users on NeetCode
+- Top 5% of users on NeetCode
 - Third Place at the MThree Canary Wharf Hackathon (2025)
 - Delivered an [educational platform](https://www.sigmaclasses.co.uk) with founders for UK students
 
