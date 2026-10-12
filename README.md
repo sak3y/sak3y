@@ -12,4 +12,4 @@ Currently working on a legal-rag assistant to query UK legistlation
 - Third Place at the MThree Canary Wharf Hackathon (2025)
 - Delivered an [educational platform](https://www.sigmaclasses.co.uk) with founders for UK students
 
-[LinkedIn](https://www.linkedin.com/in/sheikh-r-ahmed) · [Portfolio](https://sheikh-ahm.netlify.app)
+[LinkedIn](https://www.linkedin.com/in/sheikh-r-ahmed)
