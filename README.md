@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Sheikh, a **First Class Computer Science graduate** and freelance software developer based in London.
+I'm Sheikh, a **First Class CS graduate** and former freelance software developer.
 
 I work primarily with **Python, JavaScript, React, Node.js and PostgreSQL**, building web applications and exploring machine learning and AI engineering.
 
