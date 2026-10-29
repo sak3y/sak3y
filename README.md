@@ -18,5 +18,5 @@ I'm continuing to develop my skills in **software engineering, Python and AI**, 
 ### 🏆 A few highlights
 
 - **3rd place**, MThree Canary Wharf Hackathon (2025), as part of a four-person team
-- **Top 3% on [NeetCode](https://neetcode.io/user/ScarletAlakazam937)**, as reported by my profile
+- **Top 3% on [NeetCode](https://neetcode.io/user/ScarletAlakazam937)**
 - Paid freelance experience developing and maintaining applications for businesses
